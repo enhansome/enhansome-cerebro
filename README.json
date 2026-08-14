@@ -1,0 +1,390 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cerebro-codelf",
+          "description": "Cerebro plugin to search varialble names over projects.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-01-16T09:36:58Z",
+            "owner": "carlos-wong",
+            "repo": "cerebro-codelf",
+            "stars": 363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cerebro-torrent",
+          "description": "Cerebro plugin to search torrent of movies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-02T06:39:20Z",
+            "owner": "wangshub",
+            "repo": "cerebro-torrent",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cerebro-todoist",
+          "description": "Cerebro plugin to create and manage Todoist Tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-14T19:45:51Z",
+            "owner": "dubisdev",
+            "repo": "cerebro-todoist",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cerebro-snippets",
+          "description": "Cerebro plugin to create snippets from clipboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-13T14:56:26Z",
+            "owner": "cerebroapp",
+            "repo": "cerebro-snippets",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cerebro-pass",
+          "description": "Cerebro's plugin to search and copy passwords from pass.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-08T13:24:57Z",
+            "owner": "max-baz",
+            "repo": "cerebro-pass",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cerebro-weather",
+          "description": "Simple weather plugin for concise five-day forecasts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-05-09T07:53:46Z",
+            "owner": "BrainMaestro",
+            "repo": "cerebro-weather",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cerebro-file-search",
+          "description": "Cerebro plugin for fast file and folder search everywhere on your computer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-04-05T19:12:06Z",
+            "owner": "lucky125111",
+            "repo": "cerebro-file-search",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cerebro-mdn",
+          "description": "Cerebro's plugin to search terms on MDN (Mozilla Developer Network).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-08T13:02:58Z",
+            "owner": "tiagoamaro",
+            "repo": "cerebro-mdn",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cerebro-gitio",
+          "description": "Shorten GitHub URLs with git.io.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-08T02:36:35Z",
+            "owner": "lubien",
+            "repo": "cerebro-gitio",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cerebro-lol",
+          "description": "Cerebro's plugin to search counters for League of Legends.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-14T13:23:56Z",
+            "owner": "DavidBernal",
+            "repo": "cerebro-lol",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cerebro-qrcode",
+          "description": "Cerbero plugin to create QR Codes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-21T19:13:23Z",
+            "owner": "LaercioSantana",
+            "repo": "cerebro-qrcode",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cerebro-rubygems",
+          "description": "Cerebro's plugin to search gems on Rubygems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-08T13:02:56Z",
+            "owner": "tiagoamaro",
+            "repo": "cerebro-rubygems",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cerebro-hotel",
+          "description": "Cerebro plugin that lets you start, stop and open Hotel apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-08T02:29:24Z",
+            "owner": "lubien",
+            "repo": "cerebro-hotel",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cerebro-youdao",
+          "description": "Cerebro's plugin to translate via youdao dict.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-05-07T08:37:25Z",
+            "owner": "lcjnil",
+            "repo": "cerebro-youdao",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cerebro-filmaffinity",
+          "description": "Cerebro plugin to search movie info from filmaffinity webpage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-08-24T10:00:48Z",
+            "owner": "jnavb",
+            "repo": "cerebro-filmaffinity",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cerebro-base2x16",
+          "description": "Converts a number to decimal, hexadecimal, and binary bases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-11T23:56:09Z",
+            "owner": "berthin",
+            "repo": "cerebro-base2x16",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cerebro-define",
+          "description": "A Cerebro plugin to quickly look up the meaning of a word.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-04T11:29:34Z",
+            "owner": "glja021",
+            "repo": "cerebro-define",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cerebro-copy",
+          "description": "Cerebro's plugin to copy text to clipboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-06-05T10:58:28Z",
+            "owner": "lcjnil",
+            "repo": "cerebro-copy",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cerebro-blockchain",
+          "description": "A cerebro plugin to get the blockchain states and information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-10T14:30:42Z",
+            "owner": "tim-hub",
+            "repo": "cerebro-blockchain",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cerebro-thingiverse",
+          "description": "Cerebro plugin to find 3d things on thingiverse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-07-15T11:09:14Z",
+            "owner": "fcannizzaro",
+            "repo": "cerebro-thingiverse",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cerebro-ecosia",
+          "description": "Cerebro plugin to Search with Ecosia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-18T15:09:29Z",
+            "owner": "dubisdev",
+            "repo": "cerebro-ecosia",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cerebro-recipes",
+          "description": "Cerebro plugin to find food and drink recipes using the Recipe Puppy API.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-07-19T08:13:01Z",
+            "owner": "wolfika",
+            "repo": "cerebro-recipes",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cerebro-baidu",
+          "description": "Cerebro plugin to search in baidu.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-09T13:06:18Z",
+            "owner": "aak1247",
+            "repo": "cerebro-baidu",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cerebro-base64",
+          "description": "Cerebro plugin to decode and encode buffer using base64 methods.",
+          "children": []
+        }
+      ],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Operational System Exclusives"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "create-cerebro-plugin",
+          "description": "set of tools to create Cerebro plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-11T15:36:01Z",
+            "owner": "cerebroapp",
+            "repo": "create-cerebro-plugin",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cerebro-plugin-boilerplate",
+          "description": "Updated cerebro plugin template with a faster and customizable build system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-05-18T18:25:08Z",
+            "owner": "dubisdev",
+            "repo": "cerebro-plugin-boilerplate",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Development"
+    },
+    {
+      "description": "To the extent possible under law, Lubien has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T04:43:12.229Z",
+    "original_repository": "cerebroapp/awesome-cerebro",
+    "original_repository_sha": "699ee8cf2082feca282aa7b68e5092c7f4eaf174",
+    "enhanced_repository": "enhansome/enhansome-cerebro",
+    "enhanced_repository_description": null,
+    "title": "Awesome Cerebro with stars"
+  }
+}
