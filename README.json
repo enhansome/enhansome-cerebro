@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 131113952,
             "language": "JavaScript",
             "last_commit": "2019-01-16T09:36:58Z",
             "owner": "carlos-wong",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127248406,
             "language": "JavaScript",
             "last_commit": "2018-04-02T06:39:20Z",
             "owner": "wangshub",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 362962426,
             "language": "TypeScript",
             "last_commit": "2023-11-14T19:45:51Z",
             "owner": "dubisdev",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98991540,
             "language": "JavaScript",
             "last_commit": "2026-03-13T14:56:26Z",
             "owner": "cerebroapp",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85005916,
             "language": "JavaScript",
             "last_commit": "2017-07-08T13:24:57Z",
             "owner": "max-baz",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85616381,
             "language": "JavaScript",
             "last_commit": "2017-05-09T07:53:46Z",
             "owner": "BrainMaestro",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237030121,
             "language": "JavaScript",
             "last_commit": "2020-04-05T19:12:06Z",
             "owner": "lucky125111",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84067652,
             "language": "JavaScript",
             "last_commit": "2017-03-08T13:02:58Z",
             "owner": "tiagoamaro",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86935751,
             "language": "JavaScript",
             "last_commit": "2021-10-08T02:36:35Z",
             "owner": "lubien",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88186926,
             "language": "JavaScript",
             "last_commit": "2017-04-14T13:23:56Z",
             "owner": "DavidBernal",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91500284,
             "language": "JavaScript",
             "last_commit": "2021-09-21T19:13:23Z",
             "owner": "LaercioSantana",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84178226,
             "language": "JavaScript",
             "last_commit": "2017-03-08T13:02:56Z",
             "owner": "tiagoamaro",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86866372,
             "language": "JavaScript",
             "last_commit": "2021-10-08T02:29:24Z",
             "owner": "lubien",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90518603,
             "language": "JavaScript",
             "last_commit": "2017-05-07T08:37:25Z",
             "owner": "lcjnil",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141773519,
             "language": "JavaScript",
             "last_commit": "2018-08-24T10:00:48Z",
             "owner": "jnavb",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189289448,
             "language": "JavaScript",
             "last_commit": "2023-07-11T23:56:09Z",
             "owner": "berthin",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86687337,
             "language": "JavaScript",
             "last_commit": "2018-04-04T11:29:34Z",
             "owner": "glja021",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92273159,
             "language": "JavaScript",
             "last_commit": "2017-06-05T10:58:28Z",
             "owner": "lcjnil",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135770423,
             "language": "JavaScript",
             "last_commit": "2022-12-10T14:30:42Z",
             "owner": "tim-hub",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123030871,
             "language": "JavaScript",
             "last_commit": "2021-07-15T11:09:14Z",
             "owner": "fcannizzaro",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 388177750,
             "language": "JavaScript",
             "last_commit": "2022-08-18T15:09:29Z",
             "owner": "dubisdev",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 97652032,
             "language": "JavaScript",
             "last_commit": "2017-07-19T08:13:01Z",
             "owner": "wolfika",
@@ -318,29 +340,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149766326,
             "language": "JavaScript",
             "last_commit": "2022-12-09T13:06:18Z",
             "owner": "aak1247",
             "repo": "cerebro-baidu",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "cerebro-base64",
-          "description": "Cerebro plugin to decode and encode buffer using base64 methods.",
-          "children": []
         }
       ],
       "title": "Plugins"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Operational System Exclusives"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -349,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92755383,
             "language": "JavaScript",
             "last_commit": "2022-12-11T15:36:01Z",
             "owner": "cerebroapp",
@@ -363,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 428046489,
             "language": "JavaScript",
             "last_commit": "2022-05-18T18:25:08Z",
             "owner": "dubisdev",
@@ -372,16 +386,12 @@
         }
       ],
       "title": "Development"
-    },
-    {
-      "description": "To the extent possible under law, Lubien has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T03:37:07.464Z",
+    "last_updated": "2026-08-19T12:20:56.773Z",
     "original_repository": "cerebroapp/awesome-cerebro",
+    "original_repository_id": 83735934,
     "original_repository_sha": "699ee8cf2082feca282aa7b68e5092c7f4eaf174",
     "enhanced_repository": "enhansome/enhansome-cerebro",
     "enhanced_repository_description": null,
