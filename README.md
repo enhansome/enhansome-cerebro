@@ -2,7 +2,7 @@
 
 > Curated list of Cerebro plugins and resources
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,337 | 🐛 106 | 📅 2026-08-21.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,518 | 🐛 106 | 📅 2026-08-21.*
 
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
@@ -85,12 +85,12 @@
 
 #### macOS
 
+* [cerebro-mac-switch-window](https://github.com/xcodebuild/cerebro-mac-switch-window) ⚠️ Archived - Cerebro plugin to find window or tab and switch.
 * [cerebro-osx-contacts](https://www.npmjs.com/package/cerebro-osx-contacts) - Cerebro plugin to search in OSx Contacts.app.
 * [cerebro-osx-define](https://www.npmjs.com/package/cerebro-osx-define) - Cerebro plugin to define entered text in OSx dictionary.
 * [cerebro-osx-eject](https://www.npmjs.com/package/cerebro-osx-eject) - Quickly eject mounted volumes in macOS.
 * [cerebro-osx-system](https://www.npmjs.com/package/cerebro-osx-system) - Cerebro plugin to automate some OSx system features.
 * [cerebro-iterm](https://www.npmjs.com/package/cerebro-iterm) - Execute any shell command from Cerebro search line in iTerm.
-* [cerebro-mac-switch-window](https://github.com/xcodebuild/cerebro-mac-switch-window) ⚠️ Archived - Cerebro plugin to find window or tab and switch.
 
 #### Windows
 

@@ -347,6 +347,35 @@
             "repo": "cerebro-baidu",
             "stars": 0
           }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "cerebro-mac-switch-window",
+                  "description": "Cerebro plugin to find window or tab and switch.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 352614872,
+                    "language": "Swift",
+                    "last_commit": "2021-03-31T10:01:02Z",
+                    "owner": "xcodebuild",
+                    "repo": "cerebro-mac-switch-window",
+                    "stars": 2
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "macOS"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Operational System Exclusives"
         }
       ],
       "title": "Plugins"
@@ -386,10 +415,52 @@
         }
       ],
       "title": "Development"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Building Small Apps with React - Cerebro",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 85621394,
+            "language": null,
+            "last_commit": "2017-03-21T08:44:05Z",
+            "owner": "BrainMaestro",
+            "repo": "primer",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Articles"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cerebro Plugins",
+          "description": "Cerebro plugin list WebApp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 86324483,
+            "language": "JavaScript",
+            "last_commit": "2021-10-08T02:35:29Z",
+            "owner": "lubien",
+            "repo": "cerebro-plugins",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:45:10.827Z",
+    "last_updated": "2026-08-24T14:25:33.271Z",
     "original_repository": "cerebroapp/awesome-cerebro",
     "original_repository_id": 83735934,
     "original_repository_sha": "699ee8cf2082feca282aa7b68e5092c7f4eaf174",
