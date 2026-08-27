@@ -460,9 +460,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:44:59.933Z",
-    "original_repository": "cerebroapp/awesome-cerebro",
-    "original_repository_id": 83735934,
+    "last_updated": "2026-08-27T11:29:56.148Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 83735934,
+      "language": null,
+      "last_commit": "2021-11-16T11:18:38Z",
+      "owner": "cerebroapp",
+      "repo": "awesome-cerebro",
+      "stars": 496
+    },
     "original_repository_sha": "699ee8cf2082feca282aa7b68e5092c7f4eaf174",
     "enhanced_repository": "enhansome/enhansome-cerebro",
     "enhanced_repository_description": null,
