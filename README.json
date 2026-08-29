@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "⭐️ 给变量起名的事情上，为你生命省 3s (Save 3 seconds of your life when naming things.)",
+            "homepage": null,
             "id": 131113952,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-01-16T09:36:58Z",
+            "open_issues": 2,
             "owner": "carlos-wong",
             "repo": "cerebro-codelf",
-            "stars": 363
+            "stars": 363,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔞 Cerebro plugin to search torrent of movies",
+            "homepage": null,
             "id": 127248406,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-04-02T06:39:20Z",
+            "open_issues": 0,
             "owner": "wangshub",
             "repo": "cerebro-torrent",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
         },
@@ -42,12 +52,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cerebro plugin for managing todoist.",
+            "homepage": "https://www.npmjs.com/package/cerebro-cerebro-todoist",
             "id": 362962426,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-11-14T19:45:51Z",
+            "open_issues": 1,
             "owner": "dubisdev",
             "repo": "cerebro-todoist",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "cerebro-plugin",
+              "electron",
+              "plugin",
+              "todoist"
+            ]
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
         },
@@ -58,12 +78,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📦Cerebro plugin to create snippets",
+            "homepage": null,
             "id": 98991540,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-13T14:56:26Z",
+            "open_issues": 2,
             "owner": "cerebroapp",
             "repo": "cerebro-snippets",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "cerebro",
+              "cerebro-plugin",
+              "cerebro-snippets",
+              "codesnippet",
+              "snippets"
+            ]
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
         },
@@ -74,12 +105,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cerebro plugin for pass.",
+            "homepage": null,
             "id": 85005916,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-07-08T13:24:57Z",
+            "open_issues": 1,
             "owner": "max-baz",
             "repo": "cerebro-pass",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "2fa",
+              "cerebro",
+              "cerebro-plugin",
+              "otp",
+              "pass",
+              "pass-otp",
+              "password-manager"
+            ]
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
         },
@@ -90,12 +134,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple weather plugin for concise five-day forecasts",
+            "homepage": null,
             "id": 85616381,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-05-09T07:53:46Z",
+            "open_issues": 1,
             "owner": "BrainMaestro",
             "repo": "cerebro-weather",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "cerebro",
+              "cerebro-plugin",
+              "weather"
+            ]
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
         },
@@ -106,12 +159,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cerebro plugin to locate files and folders in system",
+            "homepage": null,
             "id": 237030121,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-04-05T19:12:06Z",
+            "open_issues": 0,
             "owner": "lucky125111",
             "repo": "cerebro-file-search",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
         },
@@ -122,12 +180,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cerebro's plugin to search terms on MDN (Mozilla Developer Network)",
+            "homepage": null,
             "id": 84067652,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-03-08T13:02:58Z",
+            "open_issues": 0,
             "owner": "tiagoamaro",
             "repo": "cerebro-mdn",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "cerebro",
+              "cerebro-plugin",
+              "mdn"
+            ]
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
         },
@@ -138,12 +205,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shorten GitHub URLs with git.io",
+            "homepage": null,
             "id": 86935751,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-10-08T02:36:35Z",
+            "open_issues": 0,
             "owner": "lubien",
             "repo": "cerebro-gitio",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "cerebro",
+              "cerebro-plugin",
+              "github",
+              "hacktoberfest",
+              "url-shortener"
+            ]
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
         },
@@ -154,12 +232,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cerebro plugin for a quickly counter and build searches",
+            "homepage": null,
             "id": 88186926,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-04-14T13:23:56Z",
+            "open_issues": 0,
             "owner": "DavidBernal",
             "repo": "cerebro-lol",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "cerebro",
+              "cerebro-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
         },
@@ -170,12 +256,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 91500284,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-09-21T19:13:23Z",
+            "open_issues": 0,
             "owner": "LaercioSantana",
             "repo": "cerebro-qrcode",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
         },
@@ -186,12 +277,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cerebro's plugin to search gems on Rubygems",
+            "homepage": null,
             "id": 84178226,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-03-08T13:02:56Z",
+            "open_issues": 0,
             "owner": "tiagoamaro",
             "repo": "cerebro-rubygems",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "cerebro",
+              "cerebro-plugin",
+              "rubygems"
+            ]
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
         },
@@ -202,12 +302,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cerebro plugin that lets you start, stop and open Hotel apps",
+            "homepage": null,
             "id": 86866372,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-10-08T02:29:24Z",
+            "open_issues": 0,
             "owner": "lubien",
             "repo": "cerebro-hotel",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "cerebro",
+              "cerebro-plugin",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
         },
@@ -218,12 +327,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Youdao dict for cerebro",
+            "homepage": null,
             "id": 90518603,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2017-05-07T08:37:25Z",
+            "open_issues": 0,
             "owner": "lcjnil",
             "repo": "cerebro-youdao",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
         },
@@ -234,12 +348,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cerebro plugin to search movies info at the filmaffinity page",
+            "homepage": null,
             "id": 141773519,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-08-24T10:00:48Z",
+            "open_issues": 1,
             "owner": "jnavb",
             "repo": "cerebro-filmaffinity",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "cerebro",
+              "cerebro-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
         },
@@ -250,12 +372,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cerebro plugin to convert a number from binary, decimal, and hexadecimal bases.",
+            "homepage": null,
             "id": 189289448,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-07-11T23:56:09Z",
+            "open_issues": 2,
             "owner": "berthin",
             "repo": "cerebro-base2x16",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
         },
@@ -266,12 +393,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Cerebro plugin to quickly look up the meaning of a word",
+            "homepage": null,
             "id": 86687337,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-04-04T11:29:34Z",
+            "open_issues": 5,
             "owner": "glja021",
             "repo": "cerebro-define",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "cerebro",
+              "cerebro-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
         },
@@ -282,12 +417,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CopyToClipboard plugin for cerebro.",
+            "homepage": null,
             "id": 92273159,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2017-06-05T10:58:28Z",
+            "open_issues": 0,
             "owner": "lcjnil",
             "repo": "cerebro-copy",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
         },
@@ -298,12 +438,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cerebro plugin to get the blockchain states and information",
+            "homepage": "https://www.npmjs.com/package/cerebro-blockchain",
             "id": 135770423,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-10T14:30:42Z",
+            "open_issues": 20,
             "owner": "tim-hub",
             "repo": "cerebro-blockchain",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "blockchain",
+              "blockchain-states",
+              "cerebro",
+              "cerebro-blockchain",
+              "cerebro-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
         },
@@ -314,12 +465,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cerebro plugin to find things on thingiverse",
+            "homepage": "https://www.npmjs.com/package/cerebro-thingiverse",
             "id": 123030871,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-07-15T11:09:14Z",
+            "open_issues": 0,
             "owner": "fcannizzaro",
             "repo": "cerebro-thingiverse",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "cerebro",
+              "cerebro-plugin",
+              "thingiverse"
+            ]
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
         },
@@ -330,12 +490,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cerebro plugin for google search",
+            "homepage": null,
             "id": 388177750,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-08-18T15:09:29Z",
+            "open_issues": 0,
             "owner": "dubisdev",
             "repo": "cerebro-ecosia",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
         },
@@ -346,12 +511,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Cerebro plugin to find food and drink recipes using the Recipe Puppy API.",
+            "homepage": null,
             "id": 97652032,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-07-19T08:13:01Z",
+            "open_issues": 0,
             "owner": "wolfika",
             "repo": "cerebro-recipes",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "cerebro-plugin",
+              "cooking",
+              "productivity",
+              "recipes"
+            ]
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
         },
@@ -362,12 +537,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cerebro plugin to search with engine baidu",
+            "homepage": null,
             "id": 149766326,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-09T13:06:18Z",
+            "open_issues": 13,
             "owner": "aak1247",
             "repo": "cerebro-baidu",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "baidu",
+              "cerebro",
+              "cerebro-plugin"
+            ]
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
         },
@@ -382,12 +566,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Cerebro plugin to switch window on macOS",
+                    "homepage": null,
                     "id": 352614872,
                     "language": "Swift",
+                    "license": null,
                     "last_commit": "2021-03-31T10:01:02Z",
+                    "open_issues": 0,
                     "owner": "xcodebuild",
                     "repo": "cerebro-mac-switch-window",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:43:33.341Z"
                 }
@@ -414,12 +603,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create Cerebro plugins with no configuration",
+            "homepage": "https://cerebroapp.com",
             "id": 92755383,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-11T15:36:01Z",
+            "open_issues": 0,
             "owner": "cerebroapp",
             "repo": "create-cerebro-plugin",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "cerebro",
+              "cerebro-plugin",
+              "development"
+            ]
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
         },
@@ -430,12 +628,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern and updated cerebro plugin template, with a faster and customizable build system (esbuild).",
+            "homepage": null,
             "id": 428046489,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-05-18T18:25:08Z",
+            "open_issues": 0,
             "owner": "dubisdev",
             "repo": "cerebro-plugin-boilerplate",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
         }
@@ -452,12 +655,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " A collection of notes, walkthroughs and musings about technology.",
+            "homepage": null,
             "id": 85621394,
             "language": null,
+            "license": null,
             "last_commit": "2017-03-21T08:44:05Z",
+            "open_issues": 1,
             "owner": "BrainMaestro",
             "repo": "primer",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "blog",
+              "thoughts"
+            ]
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
         }
@@ -474,12 +685,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cerebro quick plugin list",
+            "homepage": "http://lubien.me/cerebro-plugins/",
             "id": 86324483,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-10-08T02:35:29Z",
+            "open_issues": 2,
             "owner": "lubien",
             "repo": "cerebro-plugins",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "awesome",
+              "cerebro",
+              "cerebro-plugin",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
         }
@@ -488,15 +709,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:43:33.341Z",
+    "last_updated": "2026-08-29T04:44:54.164Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of Cerebro plugins and resources",
+      "homepage": null,
       "id": 83735934,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2021-11-16T11:18:38Z",
+      "open_issues": 0,
       "owner": "cerebroapp",
       "repo": "awesome-cerebro",
-      "stars": 496
+      "stars": 496,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cerebro",
+        "cerebro-plugin"
+      ]
     },
     "original_repository_sha": "699ee8cf2082feca282aa7b68e5092c7f4eaf174",
     "enhanced_repository": "enhansome/enhansome-cerebro",
