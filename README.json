@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T07:30:26.236Z",
+    "last_updated": "2026-09-04T07:32:51.381Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Cerebro plugins and resources",
@@ -721,7 +721,7 @@
       "open_issues": 0,
       "owner": "cerebroapp",
       "repo": "awesome-cerebro",
-      "stars": 496,
+      "stars": 497,
       "topics": [
         "awesome",
         "awesome-list",
