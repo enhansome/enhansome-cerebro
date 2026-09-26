@@ -2,7 +2,7 @@
 
 > Curated list of Cerebro plugins and resources
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 510,130 | 🐛 107 | 📅 2026-09-02.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 510,622 | 🐛 107 | 📅 2026-09-02.*
 
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
@@ -124,4 +124,4 @@ To the extent possible under law, [Lubien](http://lubien.me) has waived all copy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
