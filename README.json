@@ -651,7 +651,7 @@
         {
           "node_type": "item",
           "title": "Building Small Apps with React - Cerebro",
-          "description": ".",
+          "description": "BrainMaestro/primer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:10:25.107Z",
+    "last_updated": "2026-10-03T04:35:11.304Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Cerebro plugins and resources",
