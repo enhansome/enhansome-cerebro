@@ -353,7 +353,7 @@
             "id": 141773519,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2018-08-24T10:00:48Z",
+            "last_commit": "2026-11-05T23:42:22Z",
             "open_issues": 1,
             "owner": "jnavb",
             "repo": "cerebro-filmaffinity",
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T10:03:53.137Z",
+    "last_updated": "2026-11-06T10:08:25.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Cerebro plugins and resources",

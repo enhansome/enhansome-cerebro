@@ -2,7 +2,7 @@
 
 > Curated list of Cerebro plugins and resources
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 531,324 | 🐛 103 | 📅 2026-09-02.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 532,037 | 🐛 103 | 📅 2026-09-02.*
 
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
@@ -33,7 +33,7 @@
 * [cerebro-rubygems](https://github.com/tiagoamaro/cerebro-rubygems) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2017-03-08 - Cerebro's plugin to search gems on Rubygems.
 * [cerebro-hotel](https://github.com/lubien/cerebro-hotel) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2021-10-08 - Cerebro plugin that lets you start, stop and open Hotel apps.
 * [cerebro-youdao](https://github.com/lcjnil/cerebro-youdao) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2017-05-07 - Cerebro's plugin to translate via youdao dict.
-* [cerebro-filmaffinity](https://github.com/jnavb/cerebro-filmaffinity) ⭐ 2 | 🐛 1 | 🌐 JavaScript | 📅 2018-08-24 - Cerebro plugin to search movie info from filmaffinity webpage.
+* [cerebro-filmaffinity](https://github.com/jnavb/cerebro-filmaffinity) ⭐ 2 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-05 - Cerebro plugin to search movie info from filmaffinity webpage.
 * [cerebro-base2x16](https://github.com/berthin/cerebro-base2x16) ⭐ 1 | 🐛 2 | 🌐 JavaScript | 📅 2023-07-11 - Converts a number to decimal, hexadecimal, and binary bases.
 * [cerebro-define](https://github.com/glja021/cerebro-define) ⭐ 1 | 🐛 5 | 🌐 JavaScript | 📅 2018-04-04 - A Cerebro plugin to quickly look up the meaning of a word.
 * [cerebro-copy](https://github.com/lcjnil/cerebro-copy) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2017-06-05 - Cerebro's plugin to copy text to clipboard.
@@ -124,4 +124,4 @@ To the extent possible under law, [Lubien](http://lubien.me) has waived all copy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
