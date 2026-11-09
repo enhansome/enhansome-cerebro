@@ -2,7 +2,7 @@
 
 > Curated list of Cerebro plugins and resources
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 533,479 | 🐛 103 | 📅 2026-09-02.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 534,129 | 🐛 103 | 📅 2026-09-02.*
 
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
@@ -20,7 +20,7 @@
 ## Plugins
 
 * [cerebro-codelf](https://github.com/carlos-wong/cerebro-codelf/blob/master/README_EN.md) ⚠️ Archived - Cerebro plugin to search varialble names over projects.
-* [cerebro-torrent](https://github.com/wangshub/cerebro-torrent) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2018-04-02 - Cerebro plugin to search torrent of movies.
+* [cerebro-torrent](https://github.com/wangshub/cerebro-torrent) ⭐ 43 | 🐛 0 | 🌐 JavaScript | 📅 2018-04-02 - Cerebro plugin to search torrent of movies.
 * [cerebro-todoist](https://github.com/dubisdev/cerebro-todoist) ⭐ 23 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-05 - Cerebro plugin to create and manage Todoist Tasks.
 * [cerebro-snippets](https://github.com/puyt/cerebro-snippets) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2026-03-13 - Cerebro plugin to create snippets from clipboard.
 * [cerebro-pass](https://github.com/jsantiagoh/cerebro-pass) ⭐ 14 | 🐛 1 | 🌐 JavaScript | 📅 2017-07-08 - Cerebro's plugin to search and copy passwords from [pass](https://www.passwordstore.org/).
@@ -124,4 +124,4 @@ To the extent possible under law, [Lubien](http://lubien.me) has waived all copy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._

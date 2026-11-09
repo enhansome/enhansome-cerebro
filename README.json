@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "wangshub",
             "repo": "cerebro-torrent",
-            "stars": 44,
+            "stars": 43,
             "topics": []
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T09:43:39.384Z",
+    "last_updated": "2026-11-09T10:38:57.723Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Cerebro plugins and resources",
