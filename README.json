@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "carlos-wong",
             "repo": "cerebro-codelf",
-            "stars": 362,
+            "stars": 363,
             "topics": []
           },
           "first_seen": "2026-08-28T14:43:33.341Z"
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T10:22:39.228Z",
+    "last_updated": "2026-11-17T11:20:57.051Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Cerebro plugins and resources",
